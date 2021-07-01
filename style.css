@@ -25,7 +25,7 @@ body {
 
 /* --Login Area CSS Start-- */
 #login-area {
-  display: none;
+  /* display: none; */
   position: absolute;
   top: 50%;
   left: 50%;
@@ -39,6 +39,7 @@ body {
 
 /* --Tansitions Area Start-- */
 #transition-area {
+  display: none;
   margin-top: 5%;
 }
 /* --transition info-- */
