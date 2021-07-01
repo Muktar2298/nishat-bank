@@ -74,4 +74,15 @@ body {
 .btn:hover {
   background: black;
 }
+
+@media all and (max-width: 600px) {
+  .col-lg-4 {
+    margin-top: 4%;
+    width: 100%;
+  }
+  .amount-info .col-lg-6 {
+    width: 100%;
+    margin-top: 5%;
+  }
+}
 /* --Tansitions Area End-- */
